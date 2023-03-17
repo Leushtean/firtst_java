@@ -85,6 +85,10 @@ let lanquage;
 console.log(lanquage);
 console.log(typeof lanquage);
 
+let lanquageRo;
+console.log(lanquageRo);
+console.log(typeof lanquageRo);
+
 
 
 
